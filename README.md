@@ -38,15 +38,16 @@ Total: 20 pts
 
 
 nested loops
-
-Write a program that displays an upside down right triangle made of asterisks for a user-specified base length.
-
 The triangle below is created for the input of four:
 
 ****
 ***
 **
 *
+
+Write a program that displays an upside down right triangle made of asterisks for a user-specified base length.
+
+
 
 Submit: full development process
 Total: 10 pts
