@@ -48,7 +48,6 @@ The triangle below is created for the input of four:
 **
 *
 
-
 Submit: full development process
 Total: 10 pts
 6c More loops: Fibonacci
