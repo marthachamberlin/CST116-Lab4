@@ -42,10 +42,10 @@ Write a program that displays an upside-down right triangle made of asterisks fo
 
 The triangle below is created for the input of four:
 
-****
-***
-**
-*
+'****
+'***
+'**
+'*
 
 
 nested loops
