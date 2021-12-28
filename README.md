@@ -38,7 +38,14 @@ Total: 20 pts
 
 nested loops
 
-Write a program that displays an upside-down roght triable made of asterisks for a user-specified base length.
+Write a program that displays an upside-down right triangle made of asterisks for a user-specified base length.
+
+The triangle below is created for the input of four:
+
+****
+***
+**
+*
 
 
 nested loops
