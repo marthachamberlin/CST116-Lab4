@@ -50,6 +50,8 @@ The triangle below is created for the input of four:
 
 '*
 
+(not including the preceding ' and extra lines)
+
 Submit: full development process
 Total: 10 pts
 6c More loops: Fibonacci
