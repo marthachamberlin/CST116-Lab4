@@ -36,7 +36,9 @@ V2: Rewrite the preceding program to use a do-while loop instead of a while loop
 Submit: full development process
 Total: 20 pts
 ________________
+
 nested loops
+
 Write a program that displays an upside down right triangle made of asterisks for a user-specified base length.
 The triangle below is created for the input of four:
 
